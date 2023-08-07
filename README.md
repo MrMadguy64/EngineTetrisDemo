@@ -22,5 +22,5 @@ For now only GDI is supported.
 
 **Installation:**
 
-1) Download Game Engine v0.4
+1) Download Game Engine v0.4 here https://github.com/MrMadguy64/Engine/releases/tag/v0.4
 2) Replace files in Engine's directory with ones provided in Tetris.7z
