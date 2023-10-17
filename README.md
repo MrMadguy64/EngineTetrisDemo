@@ -18,6 +18,10 @@ You use this software at your own risk. It's provided "as is" without any expres
 
 **Please note!** If you want to launch game's exe directly - then copy Data directory to exe's directory.
 
+**Requirements:**
+
+Game Engine v0.10
+
 **System requirements:**
 
 DOS: Same as for HX, i386, DOS 5.0
